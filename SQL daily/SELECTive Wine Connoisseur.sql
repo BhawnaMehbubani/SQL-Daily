@@ -17,14 +17,14 @@ Input:
 wines table
 
 Column	                                                         Type                                  
-id	                                                             INTEGER
+id	                                                        INTEGER
 alcohol	                                                         FLOAT
-malic_acid	                                                     FLOAT
-ash	                                                             FLOAT
-alcalinity_of_ash	                                               FLOAT
-magnesium	                                                       INTEGER
+malic_acid	                                                  FLOAT
+ash	                                                          FLOAT
+alcalinity_of_ash	                                          FLOAT
+magnesium	                                                  INTEGER
 total_phenols	                                                   FLOAT
-flavanoids	                                                     FLOAT
+flavanoids	                                                   FLOAT
 nonflavanoid_phenols	                                           FLOAT
 proanthocyanins	                                                 FLOAT
 color_intensity	                                                 FLOAT
