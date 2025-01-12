@@ -28,14 +28,14 @@ flavanoids	                                                   FLOAT
 nonflavanoid_phenols	                                           FLOAT
 proanthocyanins	                                                 FLOAT
 color_intensity	                                                 FLOAT
-hue	                                                             FLOAT
+hue	                                                        FLOAT
 od280_or_od315_of_diluted_wines	                                 FLOAT
-proline	                                                         INTEGER
+proline	                                                     INTEGER
 
 Output:
 
 Column	                                                         Type
-id	                                                             INTEGER
+id	                                                          INTEGER
 
 ```
 
