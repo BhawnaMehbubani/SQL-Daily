@@ -11,6 +11,7 @@ Note: All percentages are reported with two numbers before the decimal point; fo
 
 Example:
 
+
 Input:
 
 wines table
@@ -35,6 +36,7 @@ Output:
 
 Column	                                                         Type
 id	                                                             INTEGER
+
 ```
 
 SELECT id
